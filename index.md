@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog - Editd by Lior!
+title: Welcome to my blog - Edited by Lior!
 ---
